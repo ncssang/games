@@ -1,0 +1,3 @@
+/home/ncs/catkin_ws/src/ncs/game/build/CMakeFiles/rebuild_cache.dir
+/home/ncs/catkin_ws/src/ncs/game/build/CMakeFiles/edit_cache.dir
+/home/ncs/catkin_ws/src/ncs/game/build/CMakeFiles/snake_game.dir
